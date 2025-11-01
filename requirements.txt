@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+pillow
+opencv-python
+matplotlib
+streamlit
+numpy
+timm
+ftfy
+streamlit-image-comparison
