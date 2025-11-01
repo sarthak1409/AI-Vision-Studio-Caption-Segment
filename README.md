@@ -2,6 +2,10 @@
 
 > **Internship Submission – Zidio Development**  
 > Developed by **Sarthak Maddi**
+> 
+## 🎬 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/DOz9BiiU-VY/maxresdefault.jpg)](https://youtu.be/DOz9BiiU-VY)
 
 A modern **Streamlit-based AI web app** that combines **Image Captioning** and **Instance Segmentation** using state-of-the-art deep learning models.  
 This project integrates **BLIP + CLIP** for intelligent caption generation and **Mask R-CNN** for precise object segmentation — all within a sleek, animated UI.
