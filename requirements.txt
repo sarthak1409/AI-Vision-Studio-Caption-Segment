@@ -1,11 +1,10 @@
+opencv-python-headless
 torch
 torchvision
 transformers
 pillow
-opencv-python
-matplotlib
-streamlit
 numpy
 timm
 ftfy
+streamlit
 streamlit-image-comparison
