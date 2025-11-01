@@ -139,7 +139,6 @@ streamlit-image-comparison
 ## 📸 Sample Demo
 
 > Upload any image from `sample_images/` and try the caption + segmentation features.  
-> Results will appear in the `outputs/` folder.
 
 ---
 
