@@ -145,7 +145,7 @@ streamlit-image-comparison
 ## 🙌 Credits
 
 **Developed by:** Sarthak Maddi  
-**Organization:** Zidio Tech  
+**Organization:** Zidio Development
 **Year:** 2025
 
 ---
