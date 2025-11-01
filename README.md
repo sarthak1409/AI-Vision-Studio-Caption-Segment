@@ -1,6 +1,6 @@
 # 🧠 AI Vision Studio: Caption & Segment
 
-> **Internship Submission – Zidio Tech**  
+> **Internship Submission – Zidio Development**  
 > Developed by **Sarthak Maddi**
 
 A modern **Streamlit-based AI web app** that combines **Image Captioning** and **Instance Segmentation** using state-of-the-art deep learning models.  
@@ -37,15 +37,7 @@ This project integrates **BLIP + CLIP** for intelligent caption generation and *
 
 ```
 internship_zidio/
-│
-├── __pycache__/                 # Compiled cache files
-│
-├── outputs/                     # Generated results
-│   ├── captions/                # Saved caption results (optional)
-│   ├── segmented/               # Segmented images
-│
 ├── sample_images/               # Sample input images
-│
 ├── app.py                       # Main Streamlit app (UI + logic)
 ├── caption_model.py             # BLIP + CLIP captioning module
 ├── segment_model.py             # Mask R-CNN segmentation module
@@ -155,7 +147,6 @@ streamlit-image-comparison
 
 **Developed by:** Sarthak Maddi  
 **Organization:** Zidio Tech  
-**Mentor:** [Your mentor’s name if applicable]  
 **Year:** 2025
 
 ---
